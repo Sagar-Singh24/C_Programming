@@ -14,3 +14,5 @@ This repository contains code of C programming.
 6.String
 <br>
 7.Functions
+<br>
+8.Pointers
