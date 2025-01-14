@@ -6,3 +6,5 @@ This repository contains code of C programming.
 2.Conditional_Statement
 <br>
 3.Loops
+<br>
+4.Array
