@@ -12,3 +12,5 @@ This repository contains code of C programming.
 5.Array2D
 <br>
 6.String
+<br>
+7.Functions
