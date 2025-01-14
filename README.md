@@ -4,3 +4,5 @@ This repository contains code of C programming.
 1.Basic_Programming
 <br>
 2.Conditional_Statement
+<br>
+3.Loops
